@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para Meu Amor ❤️</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            background-color: #ffe6e6;
+            padding: 50px;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+        .botao {
+            background-color: #ff4d4d;
+            color: white;
+            padding: 15px 25px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 18px;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 20px;
+            transition: 0.3s;
+        }
+        .botao:hover {
+            background-color: #cc0000;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Oi, meu amor! 💖</h1>
+        <p>Tenho uma surpresa para você! Clique no botão abaixo e, ao entrar no meu Instagram, vá até os Destaques e clique em <strong>'Nosso Amor'</strong>. ❤️</p>
+        <a href="https://www.instagram.com/yuri_ariell" target="_blank" class="botao">Ir para meu Instagram</a>
+    </div>
+</body>
+</html>
